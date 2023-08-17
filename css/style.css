@@ -24,7 +24,7 @@ body{
     margin-bottom: 10px;
 }
 
-.box #i_email, #i_senha{
+.box #i_email, #i_senha, #i_nome{
     width: 340px;
     height: 30px;
     margin-bottom: 10px;
